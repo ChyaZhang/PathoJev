@@ -1,0 +1,94 @@
+{
+ "slide_id": "TCGA-XF-AAMJ-01Z-00-DX1.726E3D84-8370-45AC-9C98-ACA30CAB2359",
+ "source": "SlideBench-TCGA test set (SlideChat, CVPR 2025)",
+ "questions": [
+  {
+   "question": "Based on the cellular morphology observed in the bladder tissue scan,which nuclear feature is most prominent?",
+   "options": [
+    "Basophilic nuclei",
+    "Prominent nucleoli",
+    "Multinucleation",
+    "Irregular nuclear membrane"
+   ],
+   "answer": "Prominent nucleoli",
+   "category": "Cytomorphological Characteristics"
+  },
+  {
+   "question": "Based on the features observed in the provided whole slide image,which of the following could be considered a differential diagnosis for the lesions in the bladder?",
+   "options": [
+    "Cystitis glandularis",
+    "Chronic pyelonephritis",
+    "Transitional cell carcinoma",
+    "Renal cell carcinoma"
+   ],
+   "answer": "Transitional cell carcinoma",
+   "category": "Differential Diagnosis"
+  },
+  {
+   "question": "Based on the provided histological image of the bladder tumor,what is the most likely diagnosis?",
+   "options": [
+    "Urothelial carcinoma,high-grade",
+    "Adenocarcinoma of the bladder",
+    "Squamous cell carcinoma of the bladder",
+    "Small cell carcinoma of the bladder"
+   ],
+   "answer": "Urothelial carcinoma,high-grade",
+   "category": "Disease Classification"
+  },
+  {
+   "question": "What is the histopathological grade of the carcinoma shown in the bladder tissue slide?",
+   "options": [
+    "Low-grade",
+    "Intermediate-grade",
+    "High-grade",
+    "Well-differentiated"
+   ],
+   "answer": "High-grade",
+   "category": "Grading"
+  },
+  {
+   "question": "What additional histopathological changes are observed in the provided bladder sections apart from the main carcinoma?",
+   "options": [
+    "Non-specific changes",
+    "Cystic changes only",
+    "Cystitis cystica and glandularis",
+    "No additional changes noted"
+   ],
+   "answer": "Cystitis cystica and glandularis",
+   "category": "Histopathological Changes"
+  },
+  {
+   "question": "According to the provided whole slide image of the bladder tumor,which TNM stage corresponds to the pathological assessment?",
+   "options": [
+    "pT1N0M0",
+    "pT2N0M0",
+    "pT3bN0M0",
+    "pT4N1M0"
+   ],
+   "answer": "pT3bN0M0",
+   "category": "Staging"
+  },
+  {
+   "question": "What type of tissue involvement can be observed in the provided bladder tissue slide?",
+   "options": [
+    "Only mucosal",
+    "Muscularis propria invasion",
+    "Submucosal only",
+    "No infiltration"
+   ],
+   "answer": "Muscularis propria invasion",
+   "category": "Tissue Architecture and Arrangement"
+  },
+  {
+   "question": "Examine the whole slide image: What is the extent of invasion of the tumor in the bladder?",
+   "options": [
+    "Confined to the epithelium",
+    "Invasion into the submucosa",
+    "Invading the entire bladder wall and perivesical tissue",
+    "Limited to the muscularis propria"
+   ],
+   "answer": "Invading the entire bladder wall and perivesical tissue",
+   "category": "Tumor Characteristics"
+  }
+ ]
+}

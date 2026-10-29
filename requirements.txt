@@ -1,0 +1,10 @@
+torch>=2.6
+transformers>=5.14
+peft>=0.17
+accelerate
+huggingface_hub
+safetensors
+flash-linear-attention
+h5py
+numpy
+pillow
