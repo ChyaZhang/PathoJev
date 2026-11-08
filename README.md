@@ -1,7 +1,8 @@
-# PathoJev
+# PathoJev: Efficient Pathology Decisions from Shared Visual Context
 
 <p align="left">
   <a href="https://huggingface.co/Mikezcy/PathoJev"><img src="https://img.shields.io/badge/🤗%20Model-PathoJev--9B%20%7C%2027B-yellow" alt="Model"></a>
+  <a href="https://arxiv.org/abs/2610.40752"><img src="https://img.shields.io/badge/arXiv-2610.40752-b31b1b" alt="arXiv"></a>
 </p>
 
 ## Introduction📝
@@ -19,7 +20,7 @@ question types are multiple choice (up to 16 options) and true/false statements.
 
 - [x] PathoJev-9B and PathoJev-27B weights
 - [x] Inference code and demo
-- [ ] Paper
+- [x] Paper ([arXiv](https://arxiv.org/abs/2610.40752))
 - [ ] Training and evaluation code
 
 ## Installation🛠️
@@ -124,6 +125,19 @@ PathoJev builds on [JEV](https://huggingface.co/autotrust/JEV-9B), [Qwen3.5](htt
 [CONCH](https://huggingface.co/MahmoodLab/conchv1_5) and [TRIDENT](https://github.com/mahmoodlab/TRIDENT). Training uses
 SlideInstruct, WSI-Bench, WSI-VQA, TCGA pathology reports, PathVQA and PMC-VQA; we thank their authors for releasing
 these resources.
+
+## Citation❤️
+
+If you find PathoJev useful, please cite:
+
+```bibtex
+@article{zhang2026pathojev,
+  title   = {PathoJev: Efficient Pathology Decisions from Shared Visual Context},
+  author  = {Zhang, Chengyang and Zhang, Wenchuan and Li, Bo and Liu, Xinyu and Yang, Jiaming and Li, Mengran and Chen, Jie and Ju, Wei and Yi, Yuhao and Bu, Hong and Lv, Jiancheng},
+  journal = {arXiv preprint arXiv:2610.40752},
+  year    = {2026}
+}
+```
 
 ## License
 
